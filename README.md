@@ -1,3 +1,4 @@
+![image](https://i.imgur.com/fdneSdF.jpg)
 - 👋 Hi, This @wutiger555
 - 👀 I’m marjoring in Computer Science & Infomation Management.
 - 📫 How to reach me ...  [FaceBook Profile](https://www.facebook.com/msxlol/)
