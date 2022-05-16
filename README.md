@@ -69,7 +69,7 @@
 <a href="https://linkedin.com/in/tzu-hui-wu-532109151" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/https://medium.com/%E4%B8%80%E5%80%8B%E8%B3%87%E7%AE%A1%E5%AD%B8%E7%94%9F%E7%9A%84%E7%A7%81%E5%AF%86%E8%99%95" target="_blank">
+<a href="https://medium.com/wuthmax" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>  
 </div>  
