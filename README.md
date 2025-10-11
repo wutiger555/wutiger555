@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/wutiger555">
-    <img src="https://scontent.ftpe20-1.fna.fbcdn.net/v/t39.30808-6/515439926_24821154547478856_1970583964895332334_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KRv5KcPWU30Q7kNvwFrrfHX&_nc_oc=AdmiFI1CSe4ubokbiU5OCc8ST4qPH4WVkTh74Yb4uCHJZi11f11l9-lp3ntiuuleQGk&_nc_zt=23&_nc_ht=scontent.ftpe20-1.fna&_nc_gid=lUuPXNe-prCaUweUIa0-qQ&oh=00_AfcVTX5z0LxCYCMKbMEtqdN4x0zXOXNk-jgeSVQ0RteIpQ&oe=68F01B5F" alt="Max Wu's Profile Picture" width="300" height="300" style="border-radius:50%; object-fit: cover; border: 4px solid #61dafb;"/>
+    <img src="https://scontent.ftpe20-1.fna.fbcdn.net/v/t39.30808-6/515439926_24821154547478856_1970583964895332334_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KRv5KcPWU30Q7kNvwFrrfHX&_nc_oc=AdmiFI1CSe4ubokbiU5OCc8ST4qPH4WVkTh74Yb4uCHJZi11f11l9-lp3ntiuuleQGk&_zt=23&_nc_ht=scontent.ftpe20-1.fna&_nc_gid=lUuPXNe-prCaUweUIa0-qQ&oh=00_AfcVTX5z0LxCYCMKbMEtqdN4x0zXOXNk-jgeSVQ0RteIpQ&oe=68F01B5F" alt="Max Wu's Profile Picture" width="300" height="300" style="border-radius:50%; object-fit: cover; border: 4px solid #61dafb;"/>
   </a>
   
   <h1>Hi 👋, I'm Max Wu</h1>
@@ -20,15 +20,15 @@
 ---
 
 ### 👨‍💻 About Me
-[cite_start]I am a **PMP® certified Project Manager** [cite: 5] [cite_start]with deep experience in large-scale enterprise transformation projects[cite: 7]. [cite_start]My career began in software development, providing me with a solid technical foundation that enhances collaboration with engineering teams and allows me to effectively bridge the gap between strategic business goals and technical execution[cite: 6, 24].
+我是一位擁有軟體開發背景的 **PMP® 認證專案經理**，熱衷於搭建商業策略與技術執行之間的橋樑。我的職涯從技術出發，這讓我能與工程團隊進行更深入的溝通與協作。
 
-- [cite_start]🔭 As a **Business Transformation Consultant at IBM**, I've had the privilege of spearheading project management for a **NT$2B core banking system transformation**  [cite_start]and have served as a sub-project lead for multi-million dollar contracts.
+- 🔭 在 **IBM 擔任業務轉型顧問**期間，我負責管理大型企業數位轉型專案，包含主導一個**預算達 NT$2B 的核心銀行系統改造案**，並成功交付數千萬價值的合約。
 
-- 🌱 My passion lies in leveraging technology for efficiency. [cite_start]I initiated and facilitated a **PM Community Workshop** to introduce Generative AI tools into our project management practices[cite: 16].
+- 🌱 我深信科技能提升效率，因此在公司內部發起了**專案管理社群工作坊**，導入生成式 AI 工具來優化我們的工作流程與實踐。
 
-- [cite_start]🚀 I am enthusiastic about applying my programming skills and interest in AI to personal projects, which gives me a unique edge beyond traditional business-focused project managers.
+- 🚀 工作之餘，我喜歡透過 Side Projects 將程式開發的熱情付諸實現，這也成為我區別於傳統商管背景 PM 的獨特優勢。
 
-- 💬 Feel free to ask me about **Agile Delivery**, **Digital Transformation Strategy**, or **AI's role in modern project management**.
+- 💬 歡迎與我交流關於**敏捷交付 (Agile Delivery)**、**數位轉型策略**，或是**人工智慧在現代專案管理中的應用**！
 
 ---
 
@@ -39,10 +39,7 @@
 <td width="100%">
   <h3 align="center">Topicture - iOS App</h3>
   <div align="center">
-    <a href="https://github.com/wutiger555/Topicture" target="_blank">
-      <img src="https://via.placeholder.com/600x300.png?text=Topicture+App+Screenshot" alt="Topicture Preview" width="600">
-    </a>
-    <p>A theme-driven iOS photography app built to inspire users with creative photo challenges and a modern, intuitive interface. This project showcases my skills in mobile development and my passion for creating user-centric applications.</p>
+    <p>一款以「主題式」為核心的 iOS 攝影 App，旨在透過創意攝影挑戰和現代化的直觀介面激發使用者的靈感。這個專案完整體現了我在行動應用開發以及打造使用者中心產品方面的熱情與技能。</p>
     <p>
       <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
       <img src="https://img.shields.io/badge/SwiftUI-0D63F8?style=for-the-badge&logo=swift&logoColor=white" />
