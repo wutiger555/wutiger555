@@ -1,28 +1,28 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=250&section=header&text=Max%20Wu&desc=Technical%20PM%20%7C%20AI%20Automation%20%7C%20Builder&fontSize=70&fontAlign=50&fontAlignY=40&descSize=20&descAlign=50&descAlignY=60&animation=twinkling"/>
+</div>
 
-  <!-- Animated Typing SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A833F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B%2C+I'm+Max+Wu;Technical+Consultant+%7C+PMP%C2%AE;From+Backend+Engineer+to+PM;AI-Powered+Workflow+Architect;Building+Tools+That+Save+Time" alt="Typing SVG" />
+<div align="center">
+  
+  <a href="https://linkedin.com/in/tzu-hui-wu-532109151" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/wuthmax" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
+  <a href="mailto:wuthmax@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <br/><br/>
 
   <p>
-    <img src="https://img.shields.io/badge/Role-Technical_Consulting-blueviolet?style=for-the-badge" alt="Role"/>
-    <img src="https://img.shields.io/badge/Specialty-PM_%26_Automation-blue?style=for-the-badge&logo=robot" alt="Specialty"/>
-    <img src="https://img.shields.io/badge/Industry-Core_Banking-green?style=for-the-badge&logo=bank" alt="Industry"/>
-    <img src="https://img.shields.io/badge/Superpower-AI_Tools-red?style=for-the-badge&logo=openai" alt="AI"/>
+    <img src="https://img.shields.io/badge/Role-Technical_Consulting-A833F7?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Focus-AI_%26_Automation-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Industry-FinTech_%26_Banking-00C7B7?style=for-the-badge&logo=bank&logoColor=white"/>
   </p>
 
-  <p>
-    <a href="https://linkedin.com/in/tzu-hui-wu-532109151" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-    <a href="https://medium.com/wuthmax" target="_blank">
-      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-    </a>
-    <a href="mailto:your.email@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=wutiger555&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+   <img src="https://komarev.com/ghpvc/?username=wutiger555&label=Profile%20Views&color=A833F7&style=flat-square" alt="Profile Views"/>
 
 </div>
 
@@ -191,74 +191,83 @@ graph LR
 
 </td>
 </tr>
-<tr>
 
+
+<tr>
 <td width="50%" valign="top">
 
-### 🌅 [Aura — Ambiance Sharing App](https://github.com/wutiger555/Aura-Your-Ambiance-Share-APP)
+<div align="center">
+
+### 🌅 [Aura](https://github.com/wutiger555/Aura-Your-Ambiance-Share-APP)
+**Synchronized Ambiance for Couples**
+
+<br/>
+
+<a href="https://github.com/wutiger555/Aura-Your-Ambiance-Share-APP">
+  <img src="https://raw.githubusercontent.com/wutiger555/Aura-Your-Ambiance-Share-APP/1d659106c966adfc363d91cb15870fc5d4f42258/apps/mobile/assets/AuraLogo.svg" alt="Aura Logo" width="100" style="border-radius: 15px"/>
+</a>
+
+<br/><br/>
+
+**"Built for my long-distance relationship."**
+<br/>
+Real-time weather & emotion sync, blending time zones into one shared visual experience.
+
+<br/>
+
+</div>
+
+**🔧 Tech Stack:**
+- **Mobile:** React Native (Expo)
+- **Web:** React + Tailwind CSS
+- **Architecture:** Turborepo
+- **Sync:** Real-time Location Services
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/wutiger555/Aura-Your-Ambiance-Share-APP">
-    <img src="https://raw.githubusercontent.com/wutiger555/Aura-Your-Ambiance-Share-APP/1d659106c966adfc363d91cb15870fc5d4f42258/apps/mobile/assets/AuraLogo.svg" alt="Aura Logo" width="128"/>
+    <img src="https://img.shields.io/badge/View_Project-Aura-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
-</div>
-
-**Built for my long-distance relationship**, this app lets couples share their real-time ambiance — blending weather, time zones, and emotions into one synchronized visual experience.
-
-**🔧 Tech Stack:**
-- React Native (Mobile) + React (Web)
-- TypeScript + Tailwind CSS
-- Turborepo monorepo architecture
-- Real-time sync & location services
-
-**✨ What I Learned:**
-- 📱 Cross-platform development at scale
-- 🌦️ Integrating multiple third-party APIs
-- 🎨 Real-time state synchronization
-- 💌 Building products people actually use daily
-
-**💼 PM Insight:** This project taught me how to manage technical debt while shipping features — a balance I use daily at work.
-
-<div align="center">
-
-[![View on GitHub](https://img.shields.io/badge/View_on-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wutiger555/Aura-Your-Ambiance-Share-APP)
-[![Stars](https://img.shields.io/github/stars/wutiger555/Aura-Your-Ambiance-Share-APP?style=social)](https://github.com/wutiger555/Aura-Your-Ambiance-Share-APP/stargazers)
-
 </div>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 📸 [Topicture — iOS Photography App](https://github.com/wutiger555/Topicture)
+<div align="center">
+
+### 📸 [Topicture](https://github.com/wutiger555/Topicture)
+**Themed Photography Challenges**
+
+<br/>
+
+<a href="https://github.com/wutiger555/Topicture">
+  <img src="https://github.com/wutiger555/Topicture/blob/main/Topicture/Resources/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" alt="Topicture Logo" width="100" style="border-radius: 20px"/>
+</a>
+
+<br/><br/>
+
+**"My first deep dive into iOS."**
+<br/>
+A daily mission-based photography app inspiring creativity and social sharing.
+
+<br/>
+
+</div>
+
+**🔧 Tech Stack:**
+- **Native:** Swift + SwiftUI
+- **Cloud:** Firebase (Auth, Firestore)
+- **Pattern:** MVVM Architecture
+- **Features:** Core Location & Camera
+
+<br/>
 
 <div align="center">
   <a href="https://github.com/wutiger555/Topicture">
-    <img src="https://github.com/wutiger555/Topicture/blob/main/Topicture/Resources/Assets.xcassets/AppIcon.appiconset/1024.png?raw=true" alt="Topicture Logo" width="128"/>
+    <img src="https://img.shields.io/badge/View_Project-Topicture-007AFF?style=for-the-badge&logo=apple&logoColor=white"/>
   </a>
-</div>
-
-**My first iOS app**, created to explore the Apple ecosystem and learn SwiftUI. It's a themed photography challenge app that inspires creativity through daily missions.
-
-**🔧 Tech Stack:**
-- Swift + SwiftUI
-- Firebase (Auth, Firestore, Storage)
-- MVVM Architecture
-- Core Location & Camera APIs
-
-**✨ What I Learned:**
-- 🍎 Native iOS development from scratch
-- 🏆 Building engaging user experiences
-- 🎨 Apple's design principles
-- ☁️ Firebase integration & optimization
-
-**💼 PM Insight:** Building from zero taught me to scope MVPs effectively — I now help vendors identify true must-haves vs. nice-to-haves.
-
-<div align="center">
-
-[![View on GitHub](https://img.shields.io/badge/View_on-GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wutiger555/Topicture)
-[![Stars](https://img.shields.io/github/stars/wutiger555/Topicture?style=social)](https://github.com/wutiger555/Topicture/stargazers)
-
 </div>
 
 </td>
@@ -268,7 +277,7 @@ graph LR
 
 ---
 
-## 🤖 Automation & Tools Showcase
+## 🛠️ Automation & Tools Showcase
 
 <div align="center">
 
@@ -276,45 +285,49 @@ graph LR
 
 </div>
 
+
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 📊 Dashboard Automator
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redmine_API-B32024?style=flat-square&logo=redmine&logoColor=white"/>
-
-Automated dashboard pulling data from Redmine to generate weekly status reports. **Saves ~3 hours/week**.
-
-**Stack:** Python + Pandas + Plotly
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redmine-B32024?style=for-the-badge&logo=redmine&logoColor=white"/>
+<br/><br/>
+Automated dashboard pulling data from Redmine to generate weekly status reports. 
+<br/>
+**Impact: Saves ~3 hours/week**
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 🔄 Meeting Notes AI
-<img src="https://img.shields.io/badge/Claude_API-000000?style=flat-square&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-
-AI-powered meeting transcription & action item extraction. Auto-syncs to Notion.
-
-**Stack:** Whisper + Claude + Notion API
+<br/>
+<img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<br/><br/>
+AI-powered transcription & action item extraction. Auto-syncs to Notion.
+<br/>
+**Stack: Whisper + Claude API**
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
 ### 📈 Vendor KPI Tracker
-<img src="https://img.shields.io/badge/JIRA_API-0052CC?style=flat-square&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-
+<br/>
+<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<br/><br/>
 Real-time vendor performance dashboard with automated alerting.
-
-**Stack:** JIRA API + Power BI + Python
+<br/>
+**Stack: JIRA API + Power BI**
 
 </td>
 </tr>
 </table>
 
-## 🛠️ Skills & Tech Stack
+## ⚡ Skills & Tech Stack
 
 <table>
 <tr>
@@ -453,6 +466,10 @@ Managing subsystems in Taiwan's largest core banking project. Using AI to automa
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wutiger555&theme=react-dark&hide_border=true&bg_color=0D1117&color=A833F7&line=A833F7&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=wutiger555&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
+</div>
+
 ---
 
 ## ✍️ Writing & Knowledge Sharing
@@ -515,7 +532,7 @@ for topic in writing_topics:
   <a href="https://medium.com/wuthmax">
     <img src="https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:wuthmax@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
