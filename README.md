@@ -78,7 +78,7 @@ graph LR
 - 🏦 **Day Job:** Managing vendor teams & coordinating subsystem go-live for Taiwan's largest core banking modernization
 - 🤖 **Automation Obsession:** Building AI-powered tools to automate reporting, status tracking, and repetitive PM tasks
 - 📊 **Dashboard Mania:** Creating Redmine/JIRA dashboards that transform chaos into clarity
-- 📱 **Side Projects:** Building **Aura** (ambiance sharing app) to stay hands-on with modern tech
+- 📱 **Side Projects:** Launching **Bubly** (AI social assistant) and maintaining **Aura** to stay hands-on with modern tech
 - ✍️ **Knowledge Sharing:** Writing about [AI-assisted project management](https://medium.com/wuthmax) on Medium
 - 🌱 **Learning:** Exploring prompt engineering, workflow automation, and Go
 
@@ -126,6 +126,71 @@ graph LR
 > **Why I Build:** These aren't just side projects — they're my way of staying technically sharp while solving real problems. Each one teaches me something new that I can apply to my consulting work.
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+<div align="center">
+
+<img src="https://wutiger555.github.io/bubbo-s-world/assets/bubbo-DbrEGXRv.png" width="120" alt="Bubbo Logo"/>
+
+# 🫧 Bubly
+### Your AI Social Companion | Never Forget Who Matters
+
+<p>
+  <a href="https://apps.apple.com/app/bubly-social-assistant/id6754884488">
+    <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&releaseDate=1704067200" height="50" alt="Download on the App Store"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://wutiger555.github.io/bubbo-s-world/" target="_blank">
+    <img src="https://img.shields.io/badge/Official_Website-Visit_Now-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" height="50"/>
+  </a>
+</p>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://wutiger555.github.io/bubbo-s-world/assets/app-screenshot-1-Cw09YTps.png" width="90%" alt="Bubly App Interface" style="border-radius: 10px;"/>
+</div>
+
+<br/>
+
+> **"Bubly combines AI intelligence with thoughtful design to make relationship management effortless, natural, and meaningful."**
+
+**🚀 Project Codename:** [OneMillion](https://github.com/lulalabana/OneMillion)
+
+**Bubly** (internal codename: *OneMillion*) is my flagship application, now live on the App Store! It's not just a contact manager; it's an AI-powered assistant that helps you nurture every important connection in your life.
+
+**✨ Key Features That Wow:**
+
+| 🧠 **Know Your Bubbles**                                                              | ✍️ **Craft Perfect Wishes**                                      |
+| :----------------------------------------------------------------------------------- | :-------------------------------------------------------------- |
+| Never forget a hobby, milestone, or gift idea. Bubly tracks the details that matter. | Generate personalized messages in seconds—warm, fun, or formal. |
+
+| 📅 **Never Miss a Moment**                                                                     | 🔒 **Privacy First**                                                       |
+| :-------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------ |
+| Intelligent tracking of birthdays and anniversaries ensures you're always there to celebrate. | Your relationships are private. Bubly is built with security at its core. |
+
+<br/>
+
+**🔧 Enterprise-Grade Tech Stack:**
+- **Core:** React Native (Expo) + TypeScript
+- **AI Engine:** OpenAI / Claude Integration for personalized content
+- **Backend:** Google Firebase (Auth, Firestore, Functions)
+- **CI/CD:** GitHub Actions + EAS Integration for automated delivery
+
+<div align="center">
+
+[![Repo OneMillion](https://img.shields.io/badge/GitHub-View_Source_Code_(OneMillion)-181717?style=for-the-badge&logo=github)](https://github.com/lulalabana/OneMillion)
+[![Bubbo's World](https://img.shields.io/badge/Web-Bubbo's_World-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)](https://wutiger555.github.io/bubbo-s-world/)
+
+</div>
+
+<br/>
+
+</td>
+</tr>
 <tr>
 
 <td width="50%" valign="top">
